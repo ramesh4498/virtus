@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">VirtusTask</string>
+    <string name="virtus_hits_list">Hits List</string>
+    <string name="virtus_hits_details">Hits Details</string>
+    <string name="url_not_found">Url not fount</string>
+</resources>
